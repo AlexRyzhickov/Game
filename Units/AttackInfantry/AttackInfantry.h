@@ -11,6 +11,8 @@
 class AttackInfantry: public Unit {
 public:
     AttackInfantry(int startX, int startY, Weapon *unitWeapon, Armor *unitArmor);
+
+    AttackInfantry();
 };
 
 

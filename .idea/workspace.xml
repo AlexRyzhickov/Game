@@ -11,7 +11,28 @@
     </configurations>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d5acb7a6-2981-4b27-a615-e501c7bb03e4" name="Default Changelist" comment="" />
+    <list default="true" id="d5acb7a6-2981-4b27-a615-e501c7bb03e4" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Units/AttackInfantry/AttackInfantry.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/Units/AttackInfantry/AttackInfantry.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Units/AttackInfantry/AttackInfantry.h" beforeDir="false" afterPath="$PROJECT_DIR$/Units/AttackInfantry/AttackInfantry.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Units/AttackInfantry/Swordmen.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/Units/AttackInfantry/Swordmen.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Units/AttackInfantry/Swordmen.h" beforeDir="false" afterPath="$PROJECT_DIR$/Units/AttackInfantry/Swordmen.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Units/Unit.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/Units/Unit.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Units/Unit.h" beforeDir="false" afterPath="$PROJECT_DIR$/Units/Unit.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Game.dir/CXX.includecache" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Game.dir/CXX.includecache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Game.dir/Units/AttackInfantry/AttackInfantry.cpp.obj" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Game.dir/Units/AttackInfantry/AttackInfantry.cpp.obj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Game.dir/Units/AttackInfantry/Spearmen.cpp.obj" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Game.dir/Units/AttackInfantry/Spearmen.cpp.obj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Game.dir/Units/AttackInfantry/Swordmen.cpp.obj" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Game.dir/Units/AttackInfantry/Swordmen.cpp.obj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Game.dir/Units/HeavyInfantry/HeavyInfantry.cpp.obj" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Game.dir/Units/HeavyInfantry/HeavyInfantry.cpp.obj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Game.dir/Units/HeavyInfantry/King.cpp.obj" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Game.dir/Units/HeavyInfantry/King.cpp.obj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Game.dir/Units/HeavyInfantry/Knight.cpp.obj" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Game.dir/Units/HeavyInfantry/Knight.cpp.obj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Game.dir/Units/RangedUnits/Archer.cpp.obj" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Game.dir/Units/RangedUnits/Archer.cpp.obj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Game.dir/Units/RangedUnits/Magician.cpp.obj" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Game.dir/Units/RangedUnits/Magician.cpp.obj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Game.dir/Units/RangedUnits/RangedUnit.cpp.obj" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Game.dir/Units/RangedUnits/RangedUnit.cpp.obj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Game.dir/Units/Unit.cpp.obj" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Game.dir/Units/Unit.cpp.obj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Game.dir/objects.a" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Game.dir/objects.a" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/Game.exe" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/Game.exe" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -22,11 +43,15 @@
     <option name="formatViaClangd" value="false" />
   </component>
   <component name="ExecutionTargetManager" SELECTED_TARGET="CMakeBuildProfile:Debug" />
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="OCFindUsagesOptions" text="true" ivars="false" properties="true" derivedClasses="false" />
   <component name="ProjectId" id="1ZRklYJGfirvTnMaQVsGZjJCjxL" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/Units/HeavyInfantry" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../MyGame" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -62,11 +87,25 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1584809445604</updated>
-      <workItem from="1584809446669" duration="14949000" />
+      <workItem from="1584809446669" duration="15932000" />
+      <workItem from="1584864179958" duration="1088000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>

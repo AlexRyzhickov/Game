@@ -27,6 +27,8 @@ protected:
 public:
     Unit(int startX, int startY, Weapon*unitWeapon, Armor *unitArmor);
 
+    Unit();
+
     ~Unit();
 
     unsigned int getHealth() const;

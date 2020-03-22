@@ -63,3 +63,7 @@ void Unit::add(Base *ref) {
     base = ref;
     //observers.emplace_back(&ref);
 }
+
+Unit::Unit() {
+
+}

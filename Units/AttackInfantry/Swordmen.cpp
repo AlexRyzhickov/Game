@@ -13,3 +13,33 @@ Swordmen::Swordmen(int startX, int startY, Weapon *unitWeapon, Armor *unitArmor)
 void Swordmen::attack() {
 
 }
+
+
+
+/*Swordmen::Swordmen(const Swordmen &swordmen){
+    delete unitWeapon;
+    delete unitArmor;
+    unitArmor = swordmen.unitArmor;
+    unitWeapon = swordmen.unitWeapon;
+    health = swordmen.getHealth();
+    armor = swordmen.getArmor();
+    damage = swordmen.getDamage();
+    moves = swordmen.getMoves();
+    numerInArmy = swordmen.getNumerInArmy();
+}
+
+
+
+Swordmen::Swordmen(Swordmen &&swordmen) {
+    delete unitWeapon;
+    delete unitArmor;
+    unitArmor = swordmen.unitArmor;
+    unitWeapon = swordmen.unitWeapon;
+    health = swordmen.getHealth();
+    armor = swordmen.getArmor();
+    damage = swordmen.getDamage();
+    moves = swordmen.getMoves();
+    numerInArmy = swordmen.getNumerInArmy();
+    swordmen.unitWeapon = nullptr;
+    swordmen.unitArmor = nullptr;
+}*/
